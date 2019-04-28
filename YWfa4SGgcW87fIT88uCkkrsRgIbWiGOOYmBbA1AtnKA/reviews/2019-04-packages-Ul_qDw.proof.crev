@@ -1,6 +1,6 @@
 -----BEGIN CREV PACKAGE REVIEW-----
 version: -1
-date: "2019-04-28T22:32:08.823644+03:00"
+date: "2019-04-28T22:43:23.024716+03:00"
 from:
   id-type: crev
   id: YWfa4SGgcW87fIT88uCkkrsRgIbWiGOOYmBbA1AtnKA
@@ -16,69 +16,6 @@ review:
   rating: positive
 comment: Well documented and security focused simple parsing library.
 -----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
-8iRqlmivKDgpH3xBFM3AUNVEMMYhNfaVSovd8jaU3A7spn9U7eTBquc9NMkEsNWGx2-39bXBpyOB4gDDcI76Bg
------END CREV PACKAGE REVIEW-----
-
------BEGIN CREV PACKAGE REVIEW-----
-version: -1
-date: "2019-04-28T22:35:46.039+03:00"
-from:
-  id-type: crev
-  id: YWfa4SGgcW87fIT88uCkkrsRgIbWiGOOYmBbA1AtnKA
-  url: "https://github.com/oherrala/crev-proofs"
-package:
-  source: "https://crates.io"
-  name: untrusted
-  version: 0.6.2
-  digest: k8O2fqgUYZNgk1tKHzhedPwzoSTmjfDb5AStfbcLBnQ
-review:
-  thoroughness: high
-  understanding: high
-  rating: positive
-comment: Well documented and security focused simple parsing library.
------BEGIN CREV PACKAGE REVIEW SIGNATURE-----
-kdEm7VZ_YAEZ6lQhtu892NCzjeRHe3tmEeGsOl96c8HAx2yanRqAzeV9SGyibKOcSe2o-pzkCLaS939Bcs7zDw
------END CREV PACKAGE REVIEW-----
-
------BEGIN CREV PACKAGE REVIEW-----
-version: -1
-date: "2019-04-28T22:37:16.718955+03:00"
-from:
-  id-type: crev
-  id: YWfa4SGgcW87fIT88uCkkrsRgIbWiGOOYmBbA1AtnKA
-  url: "https://github.com/oherrala/crev-proofs"
-package:
-  source: "https://crates.io"
-  name: untrusted
-  version: 0.6.2
-  digest: k8O2fqgUYZNgk1tKHzhedPwzoSTmjfDb5AStfbcLBnQ
-review:
-  thoroughness: high
-  understanding: high
-  rating: positive
-comment: Well documented and security focused simple parsing library.
------BEGIN CREV PACKAGE REVIEW SIGNATURE-----
-oXgHk2TaG9tu_GO8RM6rWvOkQQglTN9eCCRu-neVdZW_kVvAsZQOXGk_Bqx13S88wN7wO8VpHv5JC-A183TsBQ
------END CREV PACKAGE REVIEW-----
-
------BEGIN CREV PACKAGE REVIEW-----
-version: -1
-date: "2019-04-28T22:40:10.700766+03:00"
-from:
-  id-type: crev
-  id: YWfa4SGgcW87fIT88uCkkrsRgIbWiGOOYmBbA1AtnKA
-  url: "https://github.com/oherrala/crev-proofs"
-package:
-  source: "https://crates.io"
-  name: untrusted
-  version: 0.6.2
-  digest: k8O2fqgUYZNgk1tKHzhedPwzoSTmjfDb5AStfbcLBnQ
-review:
-  thoroughness: high
-  understanding: high
-  rating: positive
-comment: Well documented and security focused simple parsing library.
------BEGIN CREV PACKAGE REVIEW SIGNATURE-----
-13Muvrq-oYD25thFRWmLFADmdXdzRjGf0f-PPhkTmn_sc7Aavl19EB8h0N4jygC3SUOo70ANJFwX2xBy7XL9Cw
+gcro87kx2rWC1rURwj06SqRqrbxTuNl2UO97peIersL9tmfa2aLrnjfNuPPrTsXtvC4hh2_5s3PZ3-i1ZsYXAw
 -----END CREV PACKAGE REVIEW-----
 
