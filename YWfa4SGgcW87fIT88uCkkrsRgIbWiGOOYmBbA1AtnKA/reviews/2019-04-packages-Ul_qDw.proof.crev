@@ -40,3 +40,24 @@ comment: " There's a known memory leak when used in Windows since at least 2017.
 CCZbWkGri_eKck2i35lQ2sXUSpW9s5y1AXgEdrr4HWfXcDH4L1D11m-6b5LpP2Le84frFwvjxUv6D3nsHmfHDQ
 -----END CREV PACKAGE REVIEW-----
 
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2019-04-28T22:52:04.832732+03:00"
+from:
+  id-type: crev
+  id: YWfa4SGgcW87fIT88uCkkrsRgIbWiGOOYmBbA1AtnKA
+  url: "https://github.com/oherrala/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: mio
+  version: 0.6.16
+  digest: 1CMBh-Fe-Cn78qtbkbaJD201S6FGp68Dx6uwk631_mc
+review:
+  thoroughness: none
+  understanding: none
+  rating: dangerous
+comment: "There's a known memory leak when used in Windows since at least 2017. This can lead to denial of service if affected process is killed due to memory consumption or degration of performance if operating system runs out of memory. Upstream issues: https://github.com/tokio-rs/mio/issues/776 https://github.com/tokio-rs/mio/issues/919"
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+C4wGYu3OQK2e1z4ENYInFHXAizNujbgG60wlj7uqA7DNPm9zvBbX7B0yWqDudkxSVCAMU2J1wWVmvPFxQIMWAw
+-----END CREV PACKAGE REVIEW-----
+
