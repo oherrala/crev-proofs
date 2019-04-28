@@ -12,23 +12,11 @@
 # and verified first, and might be removed in the future.
 
 
-alexcrichton
-BurntSushi
-cramertj
-dtolnay
-fitzgen
-Geal
-huonw
-japaric
-kbknapp
-killercup
-nikomatsakis
-nox
-pnkfelix
-sfackler
-withoutboats
+# List of people who I have talked with and who seem to know what they
+# are doing. Comment includes project(s) we have worked together.
 
-github:rust-lang:libs
-github:rust-lang-nursery:log-owners
-github:rust-random:maintainers
-github:rust-lang-nursery:libs
+# untrusted
+briansmith
+
+# trust-dns
+bluejekyll
