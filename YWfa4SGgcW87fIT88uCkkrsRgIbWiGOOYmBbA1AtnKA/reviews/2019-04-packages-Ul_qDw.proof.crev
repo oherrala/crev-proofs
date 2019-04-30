@@ -61,3 +61,25 @@ comment: "There's a known memory leak when used in Windows since at least 2017. 
 C4wGYu3OQK2e1z4ENYInFHXAizNujbgG60wlj7uqA7DNPm9zvBbX7B0yWqDudkxSVCAMU2J1wWVmvPFxQIMWAw
 -----END CREV PACKAGE REVIEW-----
 
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2019-04-30T13:08:03.505268+03:00"
+from:
+  id-type: crev
+  id: YWfa4SGgcW87fIT88uCkkrsRgIbWiGOOYmBbA1AtnKA
+  url: "https://github.com/oherrala/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: either
+  version: 1.5.2
+  revision: 6e0c08a5d00915dd10fc69cbf9cba8571f7d1eb3
+  digest: m4PvlE5yEtC3lrkR5YYPK5W7YWrwcMELDvIi52b2m-g
+review:
+  thoroughness: high
+  understanding: medium
+  rating: strong
+comment: A simple datatype with implementations for many traits. Code is clean and easy to understand.
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+CNxsXVSEVUtTfD6STSSfHaPZdJQAZ_CIar2RiNkt5F9-KOZ2-Lj3sK0EN3Vczqrp8AdvgAWUR2k8PH9phbLzBw
+-----END CREV PACKAGE REVIEW-----
+
